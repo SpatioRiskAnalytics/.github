@@ -123,8 +123,7 @@ By combining Earth systems science with modern analytics, SpatioRisk Analytics a
 
 ---
 ## Founder
-### Dele Falebita, PhD
-Executive Director & Geospatial Analyst/Scientist
+### Dele Falebita, PhD, Executive Director & Geospatial Analyst/Scientist
 
 Areas of specialization include:
 
