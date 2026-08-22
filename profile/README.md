@@ -138,7 +138,7 @@ Areas of specialization include:
 
 ---
 ## Contact
-
+---
 📍 Moncton, New Brunswick, Canada
 🌐 Website: Coming Soon
 💼 LinkedIn: https://www.linkedin.com/company/spatiorisk-analytics/
