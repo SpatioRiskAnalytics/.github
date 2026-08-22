@@ -118,12 +118,12 @@ Groundwater forecasting and water-risk analysis using hydrogeological, geologica
 
 ---
 ## Our Vision
-We envision a future where exploration, development, environmental stewardship, and climate resilience are supported by integrated spatial intelligence and data-driven decision-making.
-By combining Earth systems science with modern analytics, SpatioRisk Analytics aims to bridge the gap between complex data and practical action.
+To become a trusted provider of Earth systems intelligence by integrating geoscience, artificial intelligence, geospatial analytics, and risk modelling to support exploration, development, environmental stewardship, and climate resilience.
 
 ---
 ## Founder
-### Dele Falebita, PhD, Executive Director & Geospatial Analyst/Scientist
+### Dele Falebita, PhD, 
+Executive Director & Geospatial Analyst/Scientist
 
 Areas of specialization include:
 
@@ -143,6 +143,7 @@ Areas of specialization include:
 🌐 Website: Coming Soon
 💼 LinkedIn: https://www.linkedin.com/company/spatiorisk-analytics/
 📧 Contact: dele.1.falebita@gmail.com
+
 ---
 ### SpatioRisk Analytics
 
