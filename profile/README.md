@@ -1,5 +1,5 @@
 # SpatioRisk Intelligence
-
+De-Risking Decisions Through Spatial Intelligence
 ## Spatial Intelligence. De-Risk Insights. Resilient Decisions.
 SpatioRisk Intelligence is a geospatial intelligence and decision-support consultancy focused on helping organizations discover opportunities, quantify uncertainty, and build resilience through advanced analytics, machine learning, Earth systems science, and spatial risk assessment.
 We integrate geoscience, geospatial data, artificial intelligence, statistical modelling, and climate intelligence to support smarter decisions across natural resource, environmental, infrastructure, and public-sector challenges.
