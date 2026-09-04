@@ -141,10 +141,10 @@ Areas of specialization include:
 ---
 📍 Moncton, New Brunswick, Canada
 🌐 Website: Coming Soon
-💼 LinkedIn: 
+💼 LinkedIn: https://www.linkedin.com/company/spatiorisk-intelligence/
 📧 Contact: dele.1.falebita@gmail.com
 
 ---
-### SpatioRisk Analytics
+### SpatioRisk Intelligence
 
 **Exploration. Development. Resilience.**
